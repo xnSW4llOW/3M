@@ -1,1 +1,2 @@
-# 3M
+$cd 3M
+$sh run.py
